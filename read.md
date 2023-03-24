@@ -12,3 +12,6 @@ Critical Values: These are the critical values for the test statistic at the 1%,
 
 Overall, based on the Dickey-Fuller test, the time series is likely non-stationary as the p-value is greater than 0.05.
 
+
+The null hypothesis of the Dickey-Fuller test is that the time series is non-stationary (i.e., it has a unit root), while the alternative hypothesis is that the time series is stationary. The test statistic is computed and compared to a critical value from a table. If the test statistic is less than the critical value, we reject the null hypothesis and conclude that the time series is stationary.
+
